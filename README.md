@@ -1,0 +1,2 @@
+# jscheckers
+Checkers in JavaScript
